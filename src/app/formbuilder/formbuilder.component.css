@@ -1,0 +1,31 @@
+.dndDropArea{
+     
+    height: auto;
+       min-height: 86%;
+}
+#sidebar {
+min-width: 200px;
+
+min-height: 82.25vh;
+color: #fff;
+transition: all 0.3s;
+
+padding: 10px;
+}
+.dndDropAreaouter{
+    border: ridge;
+  height: 82.25vh;
+    min-height: 100%;
+    padding: 15px;
+    overflow-x: auto;
+    background-color: white;
+}
+.mycontrol{
+  margin-bottom:0;
+}
+.propinp{
+      height: 33px !important;
+}
+.mycontrol1{
+  margin-bottom:.39rem;
+}
